@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class TwoSum {
+public class Leetcode1 {
     //notice:一开始的做法 暴力求解
     public int[] TwoSum(int[] nums, int target) {
         int[] answer = new int[2];
