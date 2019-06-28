@@ -1,13 +1,11 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
-        Queue<Integer> q = new LinkedList<Integer>();
-        System.out.print(q.peek());
-        q.offer(5);
-        q.offer(6);
-        q.poll();
-        System.out.print(q.peek());
+        Stack<Integer> s = new Stack<>();
+        s.push(5);
+        s.push(6);
+        s.pop();
+        System.out.print(s.peek() + " "+s.size());
     }
 }
