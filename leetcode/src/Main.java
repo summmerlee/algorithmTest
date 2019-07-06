@@ -1,11 +1,11 @@
-import java.util.Stack;
+import java.math.BigDecimal;
 
 public class Main {
     public static void main(String[] args) {
-        Stack<Integer> s = new Stack<>();
-        s.push(5);
-        s.push(6);
-        s.pop();
-        System.out.print(s.peek() + " "+s.size());
+        BigDecimal a = new BigDecimal("100");
+        BigDecimal b = new BigDecimal("10");
+        a=a.subtract(b);
+        System.out.print(a.toString());
+
     }
 }
