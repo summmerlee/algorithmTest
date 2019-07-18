@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2cc66f3-11c1-4299-9f40-cb710c8b88ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/charactor/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/Battle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/KillThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/TestExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplethread/ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/out/production/leetcode/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/out/production/leetcode/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leetcode/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,15 +68,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/multiplethread/ThreadPoolTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="301">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#302#312#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -131,20 +132,13 @@
         <option value="$PROJECT_DIR$/src/multiplethread/TestExecutor.java" />
         <option value="$PROJECT_DIR$/src/multiplethread/CallableDemo.java" />
         <option value="$PROJECT_DIR$/src/multiplethread/ThreadPoolTest.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="36" />
-    <option name="y" value="34" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="36" />
     <option name="width" value="1404" />
     <option name="height" value="791" />
   </component>
@@ -190,6 +184,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -210,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadPoolTest">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="CallableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multiplethread.CallableDemo" />
       <module name="testThread" />
@@ -220,6 +215,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="testThread" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -265,6 +267,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ThreadPoolTest" />
         <item itemvalue="Application.CallableDemo" />
         <item itemvalue="Application.TestExecutor" />
@@ -282,15 +285,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562316472238</updated>
-      <workItem from="1562316478087" duration="6441000" />
+      <workItem from="1562316478087" duration="8929000" />
     </task>
+    <task id="LOCAL-00001" summary="多线程+线程池">
+      <created>1562396208200</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562396208200</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6441000" />
+    <option name="totallyTimeSpent" value="8929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="34" width="1404" height="791" extended-state="0" />
+    <frame x="12" y="36" width="1404" height="791" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -308,7 +319,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36194563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20457797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -326,6 +337,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="多线程+线程池" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程+线程池" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/multiplethread/KillThread.java">
@@ -386,12 +401,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/multiplethread/ThreadPoolTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="301">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#302#312#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
