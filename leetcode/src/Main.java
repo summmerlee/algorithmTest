@@ -1,5 +1,6 @@
 import java.math.BigDecimal;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.logging.Handler;
 
@@ -20,6 +21,9 @@ public class Main {
             res[i] = array[i].intValue();
         }
         System.out.print(res instanceof int[]);
+        HashMap<Integer,Integer> map = new HashMap<>();
+        map.putIfAbsent(1,1);
+        
 
     }
 }
