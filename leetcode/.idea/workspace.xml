@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94d35e13-6c0c-4d12-b466-5fa1c0568164" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Leetcode101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="94d35e13-6c0c-4d12-b466-5fa1c0568164" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/Leetcode102.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#310#319#0" expanded="true" />
@@ -82,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Leetcode69.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -163,8 +156,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="23" />
+    <option name="x" value="80" />
+    <option name="y" value="38" />
     <option name="width" value="1336" />
     <option name="height" value="791" />
   </component>
@@ -184,11 +177,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,7 +282,7 @@
       <workItem from="1562228955828" duration="1498000" />
       <workItem from="1562312645828" duration="1580000" />
       <workItem from="1563328501824" duration="11543000" />
-      <workItem from="1563760102586" duration="12769000" />
+      <workItem from="1563760102586" duration="13384000" />
     </task>
     <task id="LOCAL-00001" summary="2019-06-21">
       <created>1561108642697</created>
@@ -380,11 +368,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564018692616</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2019-07-26">
+      <created>1564102381032</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564102381032</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80528000" />
+    <option name="totallyTimeSpent" value="81143000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,8 +391,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="23" width="1336" height="791" extended-state="0" />
-    <editor active="true" />
+    <frame x="80" y="38" width="1336" height="791" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16306028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -409,7 +403,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3090129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3090129" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -477,7 +471,8 @@
     <MESSAGE value="2019-07-20" />
     <MESSAGE value="2019-07-23" />
     <MESSAGE value="2019-07-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-07-25" />
+    <MESSAGE value="2019-07-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-07-26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -903,7 +898,7 @@
     <entry file="file://$PROJECT_DIR$/src/Leetcode102.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#310#319#0" expanded="true" />
@@ -927,8 +922,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode69.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
